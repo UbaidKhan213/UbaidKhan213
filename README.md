@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ubaid Shahzad Ali Khan.
+- 👀 I’m interested in Javascript, HTML, Python and React.
+- 🌱 I’m currently learning Front-end and Back-end.
+- 📫 How to reach me : Ubaidkhan21428@gmail.com.
+- 😄 Pronouns: He/Him.
